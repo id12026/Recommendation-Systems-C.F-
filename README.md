@@ -19,7 +19,9 @@ For Creating this Recommendation Systems Project I have done the ---
 ![image](https://github.com/id12026/Recommendation-Systems-C.F-/assets/156162431/c15f10ab-33c9-453f-8677-fc53011e164f)
 ![image](https://github.com/id12026/Recommendation-Systems-C.F-/assets/156162431/9dafd5b4-a318-4c0b-be81-7e6a87123966)
 ![image](https://github.com/id12026/Recommendation-Systems-C.F-/assets/156162431/af5779dd-afc3-4532-ada4-1bb6c3b66538)
+I have implemented these formulas in my project:- 
 ![image](https://github.com/id12026/Recommendation-Systems-C.F-/assets/156162431/05a03c4f-70c1-4f2a-be6c-1b934ef4ee13)
+![image](https://github.com/id12026/Recommendation-Systems-C.F-/assets/156162431/5164646c-4125-4b8f-a69a-2d7809286c5b)
 ![image](https://github.com/id12026/Recommendation-Systems-C.F-/assets/156162431/4e0017ff-6c21-4f0d-8472-100b6cdc22fe)
 ![image](https://github.com/id12026/Recommendation-Systems-C.F-/assets/156162431/663e9f40-2b7d-4fae-a920-9114c90e67c6)
 
